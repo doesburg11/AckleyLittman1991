@@ -19,7 +19,7 @@ the result replicates.
 condition).** See [Results](#results) below.
 
 This is a sibling project to
-[BaldwinEffect](https://github.com/doesburg11/BaldwinEffect) (a replication
+[HintonNowlan1987](https://github.com/doesburg11/HintonNowlan1987) (a replication
 of Hinton & Nowlan 1987, the theoretical precursor this paper builds on) and
 feeds a further-diverging module,
 [`eco_evolutionary_erl_baldwin`](https://github.com/doesburg11/PredPreyGrass/tree/main/predpreygrass/evolutionary/eco_evolutionary_erl_baldwin),
@@ -210,6 +210,6 @@ actually the surprising one and the candidate explanations considered.
   (Eds.), *Artificial Life II* (pp. 487–509). Addison-Wesley.
 - Hinton, G. E., & Nowlan, S. J. (1987). *How Learning Can Guide Evolution.*
   Complex Systems, 1(3), 495–502. See
-  [BaldwinEffect](https://github.com/doesburg11/BaldwinEffect) for a direct
+  [HintonNowlan1987](https://github.com/doesburg11/HintonNowlan1987) for a direct
   replication of this paper, the theoretical precursor to Ackley & Littman's
   work.
