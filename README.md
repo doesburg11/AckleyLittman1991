@@ -22,7 +22,7 @@ This is a sibling project to
 [HintonNowlan1987](https://github.com/doesburg11/HintonNowlan1987) (a replication
 of Hinton & Nowlan 1987, the theoretical precursor this paper builds on) and
 feeds a further-diverging module,
-[`eco_evolutionary_erl_baldwin`](https://github.com/doesburg11/PredPreyGrass/tree/main/predpreygrass/evolutionary/eco_evolutionary_erl_baldwin),
+[`eco_evolutionary_erl_baldwin`](https://github.com/doesburg11/PredPreyGrass/tree/main/predpreygrass/evolutionary/discrete_space/eco_evolutionary_erl_baldwin),
 in the [PredPreyGrass](https://github.com/doesburg11/PredPreyGrass) project.
 This repo is the faithful-replication baseline; that module is where the
 architecture gets pushed toward a different environment.
